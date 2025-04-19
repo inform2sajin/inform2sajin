@@ -1,21 +1,27 @@
-## Hi there 👋
+## Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=inform2sajin&label=Profile%20views&color=0e75b6&style=flat" alt="inform2sajin" />
 </p>
 <!-- Profile Header -->
-<h1 align="center">👋, I'm Sajin KP</h1>
-<h3 align="center">A passionate Python developer from Bengaluru, India 🇮🇳</h3>
+<h1 align="center">👋, I'm Sajin KP  <img src="https://media.giphy.com/media/6bQeC6thqfe8rXuB1V/giphy.gif" width="30px"/></h1>
+<h3 align="center">👨‍💻 I'm a Software Engineer who loves working with Python, Django, and PostgreSQL. ❤️ I'm passionate about building innovative solutions and growing in the tech world. 💡 I enjoy creating tech solutions and learning about Artificial Intelligence. 🤖</h3>
+
+
 
 ---
 
 ### 💫 About Me:
-- 🔭 Currently working on: **To-Do app and E-commerce app using Django + React**
-- 🌱 Learning: **Django REST, PostgreSQL**
+- 🔭 Currently working on: **To-Do app and E-commerce app using Django + React** 🌍 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24px" />
+- 🌱 Learning: **Django REST, PostgreSQL** 
 - 💬 Ask me about: **Python, Django, React**
-- 📫 Reach me at: [Email](mailto:inform2sajin@gmail.com)
-- 🌐 Portfolio: [kpsajin](https://kpsajin.com/)
+- 📍 **Location**: Bengaluru, India 🇮🇳
 
+
+- ❤️ Feel free to reach out for collaborations or just to connect! ❤️
+- 📫 **Reach me at**: [inform2sajin@gmail.com](mailto:inform2sajin@gmail.com)  
+- 🌐 **Check out my Portfolio**: [kpsajin](https://kpsajin.com/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajin-kp-83a8241ba/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kp_sajin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inform2sajin@gmail.com) 
