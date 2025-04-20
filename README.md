@@ -14,7 +14,7 @@
 
 ### 💫 About Me:
 - 🔭 Currently working on: **To-Do app and E-commerce app using Django + React** 🌍 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="24px" />
-- 🌱 Learning: **Django REST, PostgreSQL** 
+- 🌱 Learning: **Django REST, PostgreSQL, Artificial Intelligence** 
 - 💬 Ask me about: **Python, Django, React**
 - 📍 **Location**: Bengaluru, India 🇮🇳
 
